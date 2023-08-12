@@ -1,0 +1,20 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "this is a node resources or utilities for features in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "owoeyr",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mongoose-unique-validator": "^1.0.7",
+    "@types/node": "^20.4.9"
+  },
+  "dependencies": {
+    "http-status": "^1.6.2",
+    "mongoose": "^7.4.2",
+    "mongoose-unique-validator": "^4.0.0"
+  }
+}
